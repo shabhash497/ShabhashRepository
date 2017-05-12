@@ -1,0 +1,15 @@
+<suite name="ohrm1">
+<test name="ohrm1demo1">
+
+<classes>
+
+<class name ="com.tng.ohrm.AddEmployee" />
+
+</classes>
+
+
+
+</test>
+
+
+</suite>
