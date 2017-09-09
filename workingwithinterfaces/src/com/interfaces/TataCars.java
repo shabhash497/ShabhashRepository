@@ -7,7 +7,6 @@ public interface TataCars {
     int min =5;
     public default void interf1(){
     	System.out.println("Interface method ");
-    	System.out.println();
     }
     public static void staticinterf1(){
     	System.out.println("static Interface method");
