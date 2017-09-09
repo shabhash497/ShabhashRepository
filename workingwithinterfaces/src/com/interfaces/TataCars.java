@@ -10,7 +10,6 @@ public interface TataCars {
     }
     public static void staticinterf1(){
     	System.out.println("static Interface method");
-    	System.out.println();
     }
     
 }
